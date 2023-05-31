@@ -5,3 +5,5 @@ garlic
 red onion
 tomato
 jalapeno
+salt 
+pepper
